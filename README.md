@@ -5,7 +5,6 @@ I have made seperate filters depending on what they do.
 
 
 | Filter | Description  | RAW URL |
-| :---:   | :-: | :-: |
 | Blacklist | Description here | url here |
 | Whitelist | Description here | url here |
 | Annoying Ads | Description here | url here |
