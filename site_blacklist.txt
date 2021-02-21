@@ -1,0 +1,9 @@
+! Title: Piracy Site Blacklist
+! Description: Restricts Access to Unsafe Piracy Sites
+! Version: 
+! 
+!
+||fitgirlrepacks.co^
+||fitgirl-repacks.website^
+||fitgirl-repacks.cc^
+||nosteam.ro^
