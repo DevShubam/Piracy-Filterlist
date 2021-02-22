@@ -1,0 +1,15 @@
+! Title: Piracy Site Whitelist
+! Description: Large Whitelist for Piracy Sites and File Hosters
+! Version: 
+! 
+!Whitelists Servers for UploadHub (File Host for AGFY)
+@@||fs1.uploadhub.to
+@@||fs2.uploadhub.to
+@@||fs3.uploadhub.to
+@@||fs4.uploadhub.to
+@@||fs5.uploadhub.to
+@@||fs6.uploadhub.to
+@@||fs7.uploadhub.to
+@@||fs8.uploadhub.to
+@@||fs9.uploadhub.to
+@@||fs10.uploadhub.to
